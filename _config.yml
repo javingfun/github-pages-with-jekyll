@@ -3,7 +3,7 @@ author: @venaverjavier
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Proyect de arte y diseño grafico a nivel digital, independiente.
-
+theme: minima
 # social links
 twitter_username: venaverjavier
 github_username:  javingfun
